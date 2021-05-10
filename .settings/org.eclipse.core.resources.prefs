@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/pages/thongke/thongke.jsp=UTF-8
+encoding//WebContent/assets/css/style.css=UTF-8
+encoding//WebContent/layout/chatbox.jsp=UTF-8
+encoding//database/webbanhang.sql=UTF-8
+encoding//src/controller/AdminListProducts.java=UTF-8
+encoding//src/controller/HomeBillServlet.java=UTF-8
+encoding//src/controller/HomeProductsServlet.java=UTF-8
+encoding//src/controller/UsersLoginServlet.java=UTF-8
+encoding//src/controller/UsersRegisterServlet.java=UTF-8
+encoding//src/model/dao/AddressDAO.java=UTF-8
+encoding//src/model/dao/UsersDAO.java=UTF-8
+encoding/<project>=UTF-8
